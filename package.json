@@ -1,0 +1,6 @@
+{
+  "description": "State management inspired by Redux.",
+  "displayName": "Reduxity",
+  "name": "com.matthewminer.reduxity",
+  "version": "1.0.0"
+}
